@@ -1,0 +1,8 @@
+.heading {
+  font-size: 5em;
+}
+
+.heading__child {
+  font-size: 3rem;
+  line-height: 200%;
+}
