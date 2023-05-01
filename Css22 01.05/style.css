@@ -1,0 +1,7 @@
+.content-1__block {
+  font-size: 20px;
+  padding: 25px 25px 0px 25px;
+  width: 50vmax;
+  height: 100px;
+  overflow: scroll;
+}
