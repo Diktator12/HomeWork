@@ -1,0 +1,32 @@
+.wrapper {
+  padding: 100px 100px 30vh;
+  height: 100vh;
+}
+
+.block {
+  height: 100%;
+  box-shadow: 0 0 10px rgb(83, 83, 83);
+  border-radius: 50px;
+}
+
+.block {
+  background:url(tab-icon.ico) center no-repeat, linear-gradient(#111, #999);
+}
+
+.wrapper2 {
+  padding: 100px 100px 30vh;
+  height: 100vh;
+}
+
+.block2 {
+  height: 100%;
+  box-shadow: 0 0 10px rgb(83, 83, 83);
+  border-radius: 50px;
+}
+
+.block2 {
+  background-image: url(tab-icon.ico), radial-gradient(#524, #734, #3391);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
