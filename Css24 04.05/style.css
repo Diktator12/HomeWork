@@ -1,0 +1,26 @@
+.wrapper {
+  padding: 100px 100px 30vh;
+  height: 200px;
+}
+
+.block1 {
+  height: 10%;
+  box-shadow: 0 0 10px rgb(83, 83, 83);
+  border-radius: 50px;
+}
+
+.block1{
+  background-color: rgb(224, 131, 44);
+}
+.block1 {
+  position: fixed;
+  width: 50%;
+  left: 25%;
+  top: 0px;
+  right: 100vh;
+  bottom: 100vh;
+}
+
+p {
+  font-size: 50px;
+}
