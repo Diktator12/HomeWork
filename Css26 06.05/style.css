@@ -1,0 +1,14 @@
+.block1 {
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+  transition-property: border-color;
+  transition-duration: 3s;
+  transition-timing-function: ease;
+  transition-delay: 2s;
+}
+
+.block2 {
+  border: 5px solid black;
+  transition: border-color 3s ease 2s;
+}
