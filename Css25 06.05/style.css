@@ -1,0 +1,10 @@
+.block1 {
+  box-shadow: 10px 10px;
+  height: 70px;
+  width: 200px;
+  border-radius: 5px;
+  background-color: rgb(237, 187, 59);
+  position: relative;
+  top: 100px;
+  transform: skew(-30deg) translateX(10vw);
+}
