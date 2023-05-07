@@ -1,0 +1,10 @@
+.block {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 100px;
+  right: 50px;
+  height: 150px;
+  background-color: rgb(31, 31, 174);
+  border-radius: 25px;
+}
